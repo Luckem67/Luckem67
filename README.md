@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, i'm Lucas 👋
+```js
 
+```|
+const lucas = {
+code: [JavaScript, TypeScript, HTML, CSS]
+tools: [React, Redux, Node, Express, Sequelize, MongoDB]
+}
 <!--
 **Luckem67/Luckem67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
