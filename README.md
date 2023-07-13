@@ -1,12 +1,12 @@
 ### Hi, i'm Lucas 👋
 
-<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh1amxvd3VwdWRrN3dzazhtdm53bzY4cHN0enpocGVxOGR1d21sZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh1amxvd3VwdWRrN3dzazhtdm53bzY4cHN0enpocGVxOGR1d21sZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" />
 
 Soy un desarrollador con un año de experiencia teórica y práctica, realizando proyectos y formándome profesionalmente de manera constante y aplicada. con gran interes en el diseño y el desarrollo tecnologico.
 <br/>
 Cuento con amplias capacidades , desde la teoria, la comunicacion, el trabajo en equipo, la proactividad, organizacion y determinacion en los proyectos donde estoy involucrado.
 
-<br/>
+
 ```js
 const lucas = {
 code: [JavaScript, TypeScript, HTML, CSS]
