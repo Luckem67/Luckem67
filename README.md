@@ -1,6 +1,7 @@
 ### Hi, i'm Lucas 👋
 
 <img style="margin: 30px" align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh1amxvd3VwdWRrN3dzazhtdm53bzY4cHN0enpocGVxOGR1d21sZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" />
+
 <div align="justify">
 Soy un desarrollador con un año de experiencia teórica y práctica, realizando proyectos y formándome profesionalmente de manera constante y aplicada. con gran interes en el diseño y el desarrollo tecnologico.
 <br/>
