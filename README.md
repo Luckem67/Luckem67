@@ -6,7 +6,7 @@ Soy un desarrollador con un año de experiencia teórica y práctica, realizando
 <br/>
 Cuento con amplias capacidades , desde la teoria, la comunicacion, el trabajo en equipo, la proactividad, organizacion y determinacion en los proyectos donde estoy involucrado.
 
-
+<br/>
 ```js
 const lucas = {
 code: [JavaScript, TypeScript, HTML, CSS]
