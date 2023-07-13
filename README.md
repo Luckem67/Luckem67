@@ -1,9 +1,11 @@
 ### Hi, i'm Lucas 👋
 
 <img align="right" alt="GIF" height="250px" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" />
+
 Soy un desarrollador con un año de experiencia teórica y práctica, realizando proyectos y formándome profesionalmente de manera constante y aplicada. con gran interes en el diseño y el desarrollo tecnologico.
 <br/>
 Cuento con amplias capacidades , desde la teoria, la comunicacion, el trabajo en equipo, la proactividad, organizacion y determinacion en los proyectos donde estoy involucrado.
+---
 ```js
 const lucas = {
 code: [JavaScript, TypeScript, HTML, CSS]
