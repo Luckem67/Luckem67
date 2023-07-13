@@ -1,24 +1,27 @@
-### Hi, i'm Lucas 👋
+---
+### Hi, I'm Lucas 👋
 
-<div style="margin: 30px" align="justify">
-  <img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh1amxvd3VwdWRrN3dzazhtdm53bzY4cHN0enpocGVxOGR1d21sZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" />
+<p align="justify">
+  <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh1amxvd3VwdWRrN3dzazhtdm53bzY4cHN0enpocGVxOGR1d21sZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" />
+</p>
 
-  
-Soy un desarrollador con un año de experiencia teórica y práctica, realizando proyectos y formándome profesionalmente de manera constante y aplicada. con gran interes en el diseño y el desarrollo tecnologico.
+Soy un desarrollador con un año de experiencia teórica y práctica, realizando proyectos y formándome profesionalmente de manera constante y aplicada, con gran interés en el diseño y el desarrollo tecnológico.
+
+Cuento con amplias capacidades, desde la teoría, la comunicación, el trabajo en equipo, la proactividad, organización y determinación en los proyectos donde estoy involucrado.
+
 <br/>
-Cuento con amplias capacidades , desde la teoria, la comunicacion, el trabajo en equipo, la proactividad, organizacion y determinacion en los proyectos donde estoy involucrado.
 
+---
 ### Graduado de [Henry](https://www.soyhenry.com/)
 
-Alli obtuve la mayoria de conocimientos tecnicos y una gran comunidad que lo ampara  en el mundo TI y el desarrollo web!
-<br/>
-Tambien estuve desarrollarno algunas aplicaciones que me permitieron desarrollarme mas!
+Allí obtuve la mayoría de conocimientos técnicos y una gran comunidad que me respalda en el mundo de TI y el desarrollo web.
+
+También he desarrollado algunas aplicaciones que me han permitido crecer aún más:
 
 - Proyecto Final [Pluma Librería](https://plumalibreria.vercel.app/)
 - Proyecto Individual [Pi Dogs](https://github.com/Luckem67/PI-Dogs-main)
 
 
-</div>
 
 
 ```js
