@@ -7,6 +7,9 @@ Cuento con amplias capacidades , desde la teoria, la comunicacion, el trabajo en
 const lucas = {
 code: [JavaScript, TypeScript, HTML, CSS]
 tools: [React, Redux, Node, Express, Sequelize, MongoDB]
+contact: {
+    email: "lucas.rodriguez.lr99@gmail.com"
+  }
 }
 ```
 ### Graduado de [Henry](https://www.soyhenry.com/)
