@@ -2,8 +2,8 @@
 
 <div style="margin: 30px" align="right">
   <img alt="GIF" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh1amxvd3VwdWRrN3dzazhtdm53bzY4cHN0enpocGVxOGR1d21sZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" />
-</div>
-<div align="justify">
+
+  
 Soy un desarrollador con un año de experiencia teórica y práctica, realizando proyectos y formándome profesionalmente de manera constante y aplicada. con gran interes en el diseño y el desarrollo tecnologico.
 <br/>
 Cuento con amplias capacidades , desde la teoria, la comunicacion, el trabajo en equipo, la proactividad, organizacion y determinacion en los proyectos donde estoy involucrado.
@@ -17,7 +17,9 @@ Tambien estuve desarrollarno algunas aplicaciones que me permitieron desarrollar
 - Proyecto Final [Pluma Librería](https://plumalibreria.vercel.app/)
 - Proyecto Individual [Pi Dogs](https://github.com/Luckem67/PI-Dogs-main)
 
+
 </div>
+
 
 ```js
 const lucas = {
